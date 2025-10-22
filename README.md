@@ -50,14 +50,6 @@
 - **Scikit-learn**
 - **Jupyter Notebook**
 
-## 🚀 Быстрый старт
-
-```bash
-git clone https://github.com/your-username/data-analytics-practice.git
-cd data-analytics-practice
-pip install -r requirements.txt
-jupyter notebook
-
 ## 📝 Особенности
 Практические задания с решениями
 
@@ -66,3 +58,13 @@ jupyter notebook
 Примеры реальных кейсов анализа данных
 
 Постепенное усложнение задач
+
+
+## 🚀 Быстрый старт
+
+```bash
+git clone https://github.com/your-username/data-analytics-practice.git
+cd data-analytics-practice
+pip install -r requirements.txt
+jupyter notebook
+
